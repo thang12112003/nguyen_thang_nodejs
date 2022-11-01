@@ -1,0 +1,11 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "tbd",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "",
+  "license": "ISC"
+}
